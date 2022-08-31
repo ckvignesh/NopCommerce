@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "Customer Email Read Only",
+  "SystemName": "Misc.CustomerEmailReadOnly",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "Vignesh",
+  "DisplayOrder": 2,
+  "FileName": "Nop.Plugin.Misc.CustomerEmailReadOnly.dll",
+  "Description": "Making customer email IDs read only"
+}

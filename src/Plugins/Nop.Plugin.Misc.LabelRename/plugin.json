@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "Rename Labels",
+  "SystemName": "Misc.RenameLabels",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "Vignesh",
+  "DisplayOrder": 2,
+  "FileName": "Nop.Plugin.Misc.RenameLabels.dll",
+  "Description": "Renaming Labels"
+}
