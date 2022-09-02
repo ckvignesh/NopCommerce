@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Loyalty Points Based Membership",
+  "FriendlyName": "LoyaltyPointsMembership",
+  "SystemName": "Customer.LoyaltyPointsMembership",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Customer.LoyaltyPointsMembership.dll",
+  "Description": "Shedule job to check memebership of customers based on loyalty points"
+}
